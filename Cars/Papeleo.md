@@ -41,4 +41,5 @@ Una vez que el carro tenga
 - Esté a mi nombre
 - Tarjeta de circulacion actual
 - Certificado actual de verificacion
+
 ya va a estar todo en orden.
