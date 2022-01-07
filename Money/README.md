@@ -36,6 +36,7 @@ Fondos de inversion:
 
 ### Dividendos
 Invertir en empresas.
+
 Fondos de inversion:
 - VYM. Empresas de USA
 - VYMI. Empresas Internacional
@@ -57,8 +58,8 @@ Incremento de valor en las cosas que poseemos.
 
 - IAU. Fondo que invierte en oro
 ## Criptomonedas
-Es efectivo digital, no rastreable.
-Es el mercado más volátil.
+- Es efectivo digital, no rastreable.
+- Es el mercado más volátil.
 
 ### DeFi
 - Significa finanzas decentralizadas
@@ -106,11 +107,12 @@ Se encarga de guardar tus claves privadas y públicas.
             Ledger.
 
 ### Blockchain
-Libro de transacciones, repartido por todos los usuarios.
+- Libro de transacciones, repartido por todos los usuarios.
 
-Permite las aplicaciones descentralizadas.
+- Permite las aplicaciones descentralizadas.
 
-Resuelve el problema del general Bizantino.
+- Resuelve el problema del general Bizantino.
+
 #### Primera generacion
 Red que soporta dinero.
 
@@ -136,13 +138,12 @@ Plan a futuro: Comunicación entre blockchains.
 
         Dejar criptos garantizadas para conseguir un prestamo, y mas con eso.
         Es como poner dinero a trabajar
+        App. Compound
 
 - Cuentas de ahorro que pagan con bitcoin
         
         Pagan 6% en bitcoin
-        Apps.
-                LEDN
-                Compound
+        Apps. LEDN
 
 - Yield Farming.
 
@@ -177,7 +178,7 @@ Plan a futuro: Comunicación entre blockchains.
 #### CAT. Costo Anual Total
     
 - Es el cargo de intereses al mes
-- Se calcula Deuda*CAT/1200
+- El interes se calcula Deuda*CAT/1200
 
 #### Zenfi. App para ver historial crediticio.
 
