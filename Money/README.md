@@ -29,7 +29,7 @@ Fondos de inversion:
 
 - HeyBanco
 
-- OFIPOS
+- SOFIPOS
 
 - UdiBonos. Protegidos de la inflación
 
