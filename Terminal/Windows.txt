@@ -8,6 +8,9 @@ C++:
   g++ -o nombrecualquiera (.exe opcional) nombre.cpp
   nombrecualquiera (sin .exe)
 
+C#:
+  Ejecutar: csc file.cs && file.exe
+
 Java:
   javac nombre.java
   java nombre
