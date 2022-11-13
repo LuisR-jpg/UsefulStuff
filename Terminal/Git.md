@@ -1,4 +1,4 @@
-## Git branch:
+## Git branching:
 <pre>
 	-Create new branch && switch to it:
 		git checkout -b [new_branch-name]
@@ -10,4 +10,28 @@
 		git checkout [existing-branch]
 	-Current branch
 		git branch
+</pre>
+
+## Git status
+
+Checks the status of all repos within a folder
+
+<pre>
+FOR /D %%G in ("*") DO (
+    cd %%~nxG
+    git status
+    cd ..
+)
+</pre>
+
+## Git pull
+
+Tries to fetch up-to-date information of all repos within a folder
+
+<pre>
+FOR /D %%G in ("*") DO (
+    cd %%~nxG
+    git pull
+    cd ..
+)
 </pre>
