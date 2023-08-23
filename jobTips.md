@@ -4,7 +4,7 @@ Follow these tips and try to answer the following questions:
 
 *Onboarding stage*
 
-- 1-1 with all the team. It's good so you get to know the ppl you'll be working with; also you an idea of who to reach out to for help.
+- 1-1 with all the team. It's good so you get to know the ppl you'll be working with; also get an idea of who to reach out to for help.
 
 - Good practices?
 
@@ -14,16 +14,15 @@ Follow these tips and try to answer the following questions:
 
 - Current architecture of the project?
 
+- See my teammates' PRs
 
-- See my team's PRs
-
-- Make sure you fully understand the project. How flexible does this project have to be?
+- Make sure you fully understand the project. How flexible does this have to be?
 
 *Coding stage*
 
 - Workflow for commits?
 
-- Share progress through draft prs.
+- Share progress through draft PRs.
 
 - Keep your PRs as small as possible
 
