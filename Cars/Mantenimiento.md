@@ -17,12 +17,13 @@
 - Expiden comprobante de pago y se renueva tarjeta de circulacion
 
 ## Mecanico
-### Anualmente
-- Cambio de filtro de aire, gasolina y bujias anual
+### Cada 2 años
+- Afinación mayor (cambio de bujias, lavado de inyectores, filtro de gasolina, afinación menor).
 ### Cada seis meses
-- Cambio de aceite cada 6 meses.
 - Nivel liquido de frenos.
-### Mensualmente
-- Nivel de agua del radiador.
-- Presion de llantas (30 - 36 psi)
+- Revisión física batería.
+- Afinación menor (aceite, filtro de aceite y filtro de aire).
+### Quincenalmente
+- Nivel de anticongelante del radiador.
+- Presion de llantas (30 - 36 psi).
     
