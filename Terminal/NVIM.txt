@@ -44,6 +44,7 @@ To move between files:
 Undo, redo:
 	u: undo
 	ctrl + r: redo
+	:, e: Restarts file, it can delete all unsaved changes or update the file if it was modified behind vim
 Clipboard:
 	Deleting doesn't exist, it's just cutting
 	p: Pastes the line after the cursor
@@ -101,3 +102,4 @@ To search:
 
 Tricks:
 	d, d, p: Swaps two lines	
+	:! command: Executes whatever you want in command line, by temporarily exiting vim.
