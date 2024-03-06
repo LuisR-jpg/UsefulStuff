@@ -41,6 +41,7 @@ To move between files:
 		Navegation stacks.
 		T o come back in the history: ctrl + o
 		To go forward again: ctrl + i
+	:e filename: Opens a different file on VIM while keeping the previous one open.
 Undo, redo:
 	u: undo
 	ctrl + r: redo
