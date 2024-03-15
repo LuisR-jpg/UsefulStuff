@@ -1,6 +1,8 @@
 --- NVIM ---
 To exit: esc, esc, :, q   //Sometimes needed !q
-To enter a file: nvim nombre.ext
+To open a file: nvim nombre.ext
+To open a file in view-only mode: view nombre.ext
+To open a file in easy mode: vi -y nombre.ext
 To move:
 	It's possible to use numbers, like 3l, 4w, 7b
 	l: right
