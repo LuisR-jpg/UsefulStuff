@@ -30,3 +30,22 @@ C++:
   To run: ./a.out
   To compile and run: g++ nombre.cpp && ./a.out
 		      g++ nombre.cpp -o nombre.out && ./nombre.out
+
+--- CONSOLE ---
+pwd:                        Current directory
+mkdir <nombre>:             New folder
+cd <directorio>:            Change directory
+ctrl + c:                   Stop process
+ls -l:                      List directory with size and date
+cp <old> <new>:             Copy
+rm <file>:                  Remove file
+cat <file>:                 Print content of file
+cat <file> | grep "word":   Look for specific word in file
+sudo passwd <user>:         Change user password
+apt update:                 Conseguir actualizaciones
+apt upgrade:                Aplicar actualizaciones
+cd:                         Go home
+cd /:                       Changes directory to root
+find <path> | grep "word":  Finds files named word
+grep -r "word":             Find files containing word
+netstat -lnp:               See summary of ports
